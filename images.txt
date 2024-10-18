@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 sylveraio/oneformer3d
+pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
